@@ -22,27 +22,11 @@ const projects = [
       { name: "Matplotlib" },
     ],
     image: "/assets/projects/thumb1.jpg",
-    github: "https://github.com/ujwalreddybattu04/Brain-Tumor-Detection",
+    github: "https://github.com/rmaganti177-oss/Brain-Tumor-Detection",
   },
+  
   {
     num: "02",
-    category: "deep learning",
-    title: "LSTM-Based Next Word Prediction",
-    description:
-      "A deep learning model utilizing Long Short-Term Memory (LSTM) networks to predict the next word in a given sequence, trained on Shakespeare's Hamlet.",
-    stack: [
-      { name: "Python" },
-      { name: "TensorFlow" },
-      { name: "Keras" },
-      { name: "Natural Language Processing (NLP)" },
-      { name: "LSTM" },
-    ],
-    image: "/assets/projects/thumb2.jpg",
-    github:
-      "https://github.com/ujwalreddybattu04/LSTM-Based-Next-word-predection",
-  },
-  {
-    num: "03",
     category: "machine learning",
     title: "Spam Email Prediction",
     description:
@@ -57,10 +41,10 @@ const projects = [
       { name: "NumPy" },
     ],
     image: "/assets/projects/thumb3.jpg",
-    github: "https://github.com/ujwalreddybattu04/Spam-Email-Prediction-",
+    github: "https://github.com/rmaganti177-oss/Spam-Email-Prediction",
   },
   {
-    num: "04",
+    num: "03",
     category: "deep learning",
     title: "AI-Based Disease Diagnostic",
     description:
@@ -74,10 +58,10 @@ const projects = [
     ],
     image: "/assets/projects/thumb4.jpg",
     github:
-      "https://github.com/ujwalreddybattu04/AI-Based-Disease-Diagnostic-",
+      "https://github.com/rmaganti177-oss/AI-Based-Disease-Diagnostic",
   },
   {
-    num: "05",
+    num: "04",
     category: "machine learning",
     title: "5G Data Usage Prediction App",
     description:
@@ -91,25 +75,25 @@ const projects = [
       { name: "Scikit-learn" },
     ],
     image: "/assets/projects/thumb5.jpg",
-    github: "https://github.com/ujwalreddybattu04/5G-Data-Predictor-Xgboost",
+    github: "https://github.com/rmaganti177-oss/2024GR26CS462_5G-Data-Predictor-Xgboost-main",
   },
-  {
-    num: "06",
-    category: "deep learning",
-    title: "Automatic 3D Cartoon Generation from Natural Language Stories",
-    description:
-      "A deep learning system that automatically generates 3D animated cartoon videos from natural language stories, converting text into animated scenes with characters, dialogues, and motions.",
-    stack: [
-      { name: "Python" },
-      { name: "Natural Language Processing (NLP)" },
-      { name: "Computer Vision" },
-      { name: "3D Animation" },
-      { name: "Deep Learning" },
-    ],
-    image: "/assets/projects/thumb6.jpg",
-    github:
-      "https://github.com/ujwalreddybattu04/Automatic-creation-of-a-3D-cartoon-from-natural-language-story",
-  },
+  // {
+  //   num: "06",
+  //   category: "deep learning",
+  //   title: "Automatic 3D Cartoon Generation from Natural Language Stories",
+  //   description:
+  //     "A deep learning system that automatically generates 3D animated cartoon videos from natural language stories, converting text into animated scenes with characters, dialogues, and motions.",
+  //   stack: [
+  //     { name: "Python" },
+  //     { name: "Natural Language Processing (NLP)" },
+  //     { name: "Computer Vision" },
+  //     { name: "3D Animation" },
+  //     { name: "Deep Learning" },
+  //   ],
+  //   image: "/assets/projects/thumb6.jpg",
+  //   github:
+  //     "https://github.com/ujwalreddybattu04/Automatic-creation-of-a-3D-cartoon-from-natural-language-story",
+  // },
 ];
 
 const Projects = () => {

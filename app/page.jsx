@@ -52,7 +52,8 @@ const Home = () => {
             >
               <p>
                 B.Tech student at IIIT Vadodara, actively exploring the world of
-                full-stack web development and data science.
+                Artificial Intelligence, Full-stack Development, and Machine
+                Learning.
               </p>
             </motion.div>
 
