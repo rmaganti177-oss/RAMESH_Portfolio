@@ -75,8 +75,8 @@ const Home = () => {
                 initial="hidden"
                 whileInView={"show"}
                 viewport={{ once: false, amount: 0.2 }}
-                href="/MAGANTI%27s_Resume.pdf" // URL-encoded apostrophe
-                download
+                href="/Maganti_Ramesh_Resume.pdf"
+                download="Maganti_Ramesh_Resume.pdf"
                 aria-label="Download Ramesh's CV"
               >
                 <Button

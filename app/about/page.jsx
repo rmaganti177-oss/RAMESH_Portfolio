@@ -73,7 +73,7 @@ const about = {
     },
     {
       fieldName: "Languages",
-      fieldValue: "English, Telugu , Hindi , Tamil",
+      fieldValue: "English, Telugu , Hindi , Japanese(N5)",
     },
   ],
 };
